@@ -16,7 +16,7 @@ Abres una nueva terminal:
 
 ![image](https://github.com/antonylsalazarr/PaginaBasicaReact/assets/149880665/58381882-a034-4228-bee3-ce4ce633ddc5)
 
-Escribes el comando "mpn install":
+Escribes el comando "npm install":
 
 ![image](https://github.com/antonylsalazarr/PaginaBasicaReact/assets/149880665/d3d9eb99-81fd-48ed-9676-7d2e47cd5d5c)
 
