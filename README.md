@@ -6,7 +6,7 @@ Descargas el proyecto en una carpeta en tu computadora.
 
 Abres Visual Studio Code, que lo puedes descargar aqui: https://code.visualstudio.com/
 
-Abres el proyecto desde VSC: 
+Abres la carpeta con el proyecto desde VSC: 
 
 ![image](https://github.com/antonylsalazarr/PaginaBasicaReact/assets/149880665/c3110847-84da-4d9d-933c-9d45caede22a)
 
