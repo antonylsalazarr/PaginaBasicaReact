@@ -1,5 +1,3 @@
-Es una página sencilla. Puede usarse para fines publicitarios.
-
 Para ejecutarla, debes tener instalado Node.js, que lo puedes descargar aqui: https://nodejs.org/en/
 
 Descargas el proyecto en una carpeta en tu computadora.
