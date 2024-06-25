@@ -1,24 +1,36 @@
-# React + Vite
+Es una página sencilla. Puede usarse para fines publicitarios.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Para ejecutarla, debes tener instalado Node.js, que lo puedes descargar aqui: https://nodejs.org/en/
 
-Currently, two official plugins are available:
+Descargas el proyecto en una carpeta en tu computadora.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Abres Visual Studio Code, que lo puedes descargar aqui: https://code.visualstudio.com/
 
+Abres el proyecto desde VSC: 
 
-Es la primera página que creé con React.
+![image](https://github.com/antonylsalazarr/PaginaBasicaReact/assets/149880665/c3110847-84da-4d9d-933c-9d45caede22a)
 
-Para ejecutarla, debes tener instalado Node.js
+Te ubicas en el archivo main.jsx de la carpeta SRC:
 
-Abres la carpeta que contiene el proyecto, luego abres una nueva terminal en tu editor de código,  e insetrtas el comando: npm install
+![image](https://github.com/antonylsalazarr/PaginaBasicaReact/assets/149880665/cd57cea8-9ecf-4836-8947-c33163895011)
 
-Esperas que instale las dependencias, aparecerá una carpeta nueva llamada node_modules en los archivos de la carpeta raíz.
+Abres una nueva terminal:
 
-En la Terminal insertas el comando: npm run dev
+![image](https://github.com/antonylsalazarr/PaginaBasicaReact/assets/149880665/58381882-a034-4228-bee3-ce4ce633ddc5)
 
-Te mostrará el servidor resaltado en azul, haces clic presionando ctrl y abrirá la página
+Escribes el comando "mpn install":
+
+![image](https://github.com/antonylsalazarr/PaginaBasicaReact/assets/149880665/d3d9eb99-81fd-48ed-9676-7d2e47cd5d5c)
+
+Esperas que instale las dependencias, aparecerá una carpeta nueva llamada "node_modules" en los archivos de la carpeta raíz:
+
+![image](https://github.com/antonylsalazarr/PaginaBasicaReact/assets/149880665/23cdac6d-392b-4222-b668-8c497915266f)
+
+En la Terminal insertas el comando "npm run dev".
+
+Te mostrará el servidor resaltado en azul, haces clic presionando ctrl y abrirá la página:
+
+![image](https://github.com/antonylsalazarr/PaginaBasicaReact/assets/149880665/0c109da0-9f15-4f1f-b9e3-3e07806c2a95)
 
 Y listo.
 
